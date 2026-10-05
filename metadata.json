@@ -1,0 +1,6 @@
+{
+  "name": "Maison Moka — Artisanal Café & Roastery",
+  "description": "An aesthetic, sensory digital experience for Maison Moka artisanal specialty coffee and viennoiserie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
